@@ -1,0 +1,17 @@
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\bin\Release\net6.0-windows\AverageWinCriterion.exe
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\bin\Release\net6.0-windows\AverageWinCriterion.deps.json
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\bin\Release\net6.0-windows\AverageWinCriterion.runtimeconfig.json
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\bin\Release\net6.0-windows\AverageWinCriterion.dll
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\bin\Release\net6.0-windows\AverageWinCriterion.pdb
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.csproj.AssemblyReference.cache
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.Form1.resources
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.csproj.GenerateResource.cache
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.AssemblyInfoInputs.cache
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.AssemblyInfo.cs
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.csproj.CoreCompileInputs.cache
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.dll
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\refint\AverageWinCriterion.dll
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.pdb
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\AverageWinCriterion.genruntimeconfig.cache
+C:\Users\SDS\Documents\Учеба\Теория систем и системный анализ\Курсовавя\AverageWinCriterion\AverageWinCriterion\obj\Release\net6.0-windows\ref\AverageWinCriterion.dll

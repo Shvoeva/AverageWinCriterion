@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVAo6LmSHn26Vl3BE3ap2aumo+lwXgJ67B8h8OmNIX2LwgytQ9lq6WgDBk1e2RHZLgvJur5TS7+H5skbXVzLAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SDS\\Documents\\Учеба\\Теория систем и системный анализ\\Курсовавя\\AverageWinCriterion\\AverageWinCriterion\\AverageWinCriterion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SDS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\SDS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\SDS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

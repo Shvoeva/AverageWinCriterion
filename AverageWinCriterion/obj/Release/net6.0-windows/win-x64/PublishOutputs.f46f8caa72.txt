@@ -1,0 +1,7 @@
+C:\Users\SDS\Desktop\AverageWinCriterion.pdb
+C:\Users\SDS\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\SDS\Desktop\PenImc_cor3.dll
+C:\Users\SDS\Desktop\PresentationNative_cor3.dll
+C:\Users\SDS\Desktop\vcruntime140_cor3.dll
+C:\Users\SDS\Desktop\wpfgfx_cor3.dll
+C:\Users\SDS\Desktop\AverageWinCriterion.exe
